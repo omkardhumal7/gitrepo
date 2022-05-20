@@ -1,1 +1,2 @@
-This is first command for the git
+This is first command for the git.
+This is second command for the same it.
